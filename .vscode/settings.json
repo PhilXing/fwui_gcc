@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.sdl": "makefile",
+        "*.veb": "makefile",
+        "*.cif": "makefile",
+        "AdlinkMakefile": "makefile",
+        "*.EFI": "hexdump",
+        "*.asi": "asl",
+        "*.sd": "edk2_vfr",
+        "*.dsc.inc": "edk2_dsc",
+        "*.nsh": "shellscript",
+        "efivar.h": "c",
+        "stdlib.h": "c"
+    }
+}
